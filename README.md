@@ -6,6 +6,8 @@ A free and open-source Cloudflare Worker script designed to **bypass the Pixeldr
 
 This repository contains the core, deployable code for the service hosted at [pixeldrainbypass.org](https://pixeldrainbypass.org).
 
+![Project Preview](/index.png)
+
 ## Features
 
 -   **✅ Unlimited Downloads**: Effectively bypasses the IP-based daily download quota.
